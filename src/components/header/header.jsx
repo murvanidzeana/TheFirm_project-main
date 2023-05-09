@@ -20,6 +20,9 @@ export default function Header() {
         <div>
             <img src={Logo} className="logo" alt=""/>
         </div>
+        <div>
+            <img src={Logo} className="logo" alt=""/>
+        </div>
         </>
         
     )
