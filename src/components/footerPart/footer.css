@@ -101,10 +101,11 @@
     border-top: none;
     border-left: none;
     border-right: none;
+    border-bottom: 1px solid #2e2e2e;
     outline: none;
     padding-left: 8px;
-    color: #1e1e1e;
-    font-size: 18px;
+    color: #2e2e2e;
+    font-size: 15px;
     font-weight: 700;
 }
 .formBox input::placeholder {
